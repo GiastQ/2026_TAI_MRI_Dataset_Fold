@@ -71,12 +71,17 @@ To use these partitions, download the original datasets from their official sour
 
 ## Original Datasets
 
-To reconstruct the partitions, download the original datasets from their official sources:
+Please refer to the following publications to access and cite the original datasets:
 
-| Dataset | Source |
-|---------|--------|
-| **Figshare** | [Link to dataset](#) *(placeholder)* |
-| **BRISC2025** | [Link to dataset](#) *(placeholder)* |
+**Figshare (Brain Tumor MRI Dataset)**
+> Cheng, J., Huang, W., Cao, S., Yang, R., Yang, W., Yun, Z., Wang, Z., & Feng, Q. (2015).
+> *Enhanced performance of brain tumor classification via tumor region augmentation and partition.*
+> PLOS ONE, 10(10), e0140381.
+
+**BRISC2025**
+> Fateh, A., Rezvani, Y., Moayedi, S., Rezvani, S., Fateh, F., Fateh, M., & Abolghasemi, V. (2025).
+> *BRISC: Annotated Dataset for Brain Tumor Segmentation and Classification.*
+> arXiv preprint arXiv:2506.14318.
 
 ---
 
